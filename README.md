@@ -28,7 +28,7 @@
         </ul>
         <h3>📫 Comment me contacter</h3>
         <ul>
-            <li>✉️ Email : <a href="mailto:tonemail@example.com">tonemail@example.com</a></li>
+            <li>✉️ Contact Tg : <a href="mailto:tonemail@example.com">t.me/Kingcey</a></li>
             <li>🐦 Twitter : <a href="https://twitter.com/tonpseudo">@tonpseudo</a></li>
         </ul>
         <h3>🚀 Mes objectifs</h3>
