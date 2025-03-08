@@ -1,28 +1,42 @@
-# 🌟 Bienvenue sur mon profil GitHub ! 🌟
-
-## 👨‍💻 Je suis un programmeur débutant
-
-Je m'appelle **[Ton Nom]**, et je débute dans le monde de la programmation. Passionné par la technologie et l'apprentissage, je suis ici pour développer mes compétences et partager mes projets !
-
-### 🌱 Compétences que j'apprends
-- 💻 HTML & CSS
-- 🐍 Python
-- 📦 JavaScript
-- 📱 Développement d'applications Web
-
-### 💡 Projets récents
-Voici quelques projets sur lesquels je travaille actuellement :
-- [Mon premier site web](https://github.com/tonprofil/ton-site-web) - Un site web simple pour démontrer mes compétences en HTML et CSS.
-- [Un petit projet Python](https://github.com/tonprofil/ton-projet-python) - Un programme qui fait quelque chose d'intéressant en Python.
-
-### 📫 Comment me contacter
-Si tu souhaites discuter ou collaborer sur des projets, n'hésite pas à me contacter !
-- ✉️ Email : [tonemail@example.com](mailto:tonemail@example.com)
-- 🐦 Twitter : [@tonpseudo](https://twitter.com/tonpseudo)
-
-### 🚀 Mes objectifs
-- Améliorer mes compétences en programmation
-- Contribuer à des projets open source
-- Créer des applications utiles
-
-Merci de visiter mon profil ! Je suis toujours ouvert à des conseils et à des collaborations ! 😊
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil GitHub - Développeur Débutant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        img {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="VOTRE_IMAGE_URL_ICI" alt="Photo de profil">
+        <h1>👋 Salut, je suis un développeur débutant !</h1>
+        <p>Je suis passionné par la programmation et j'apprends chaque jour de nouvelles choses. 🚀</p>
+        <p>Suivez-moi dans mon aventure sur <strong>GitHub</strong> ! 💻</p>
+    </div>
+</body>
+</html>
