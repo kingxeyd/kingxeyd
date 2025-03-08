@@ -33,7 +33,7 @@
 </head>
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜Q+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+Je+suis+kingcey;un+proagrammeur+débutant!" alt="Typing SVG">
     </p>
     <h1 align="center"><b>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b></h1>
     <p align="center">
