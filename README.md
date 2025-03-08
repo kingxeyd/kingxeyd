@@ -60,6 +60,13 @@
             <li>✉️ <strong>Email :</strong> <a href="mailto:tonemail@example.com">tonemail@example.com</a> <img src="https://envs.sh/wga.jpg" alt="Icon" style="width: 30px; height: 30px; border-radius: 50%; vertical-align: middle; margin-left: 8px;"></li>
             <li>🐦 Twitter : <a href="https://twitter.com/tonpseudo">@tonpseudo</a></li>
         </ul>
+        <h3>🎭 Un peu plus sur moi</h3>
+        <ul>
+            <li>🎸 J'adore la musique et je joue de la guitare</li>
+            <li>📚 Passionné de lecture, surtout sur la tech et la science-fiction</li>
+            <li>🎮 Gamer à mes heures perdues, toujours partant pour un bon jeu</li>
+            <li>🌍 J'aime explorer de nouvelles cultures et apprendre des langues</li>
+        </ul>
         <h3>🚀 Mes objectifs</h3>
         <ul>
             <li>Améliorer mes compétences en programmation</li>
