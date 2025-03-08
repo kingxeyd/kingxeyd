@@ -33,9 +33,9 @@
 </head>
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+Je+suis+kingcey;un+proagrammeur+débutant;juste+Pour+vous+faire+part+de+mes+!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+Je+suis+kingcey;un+proagrammeur+débutant;juste+Pour+vous+faire+part+de+mes+Projets" alt="Typing SVG">
     </p>
-    <h1 align="center"><b>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b></h1>
+    <h1 align="center"><b></b></h1>
     <p align="center">
         <a href="https://github.com/MrMKN/PROFESSOR-BOT/stargazers"><img src="https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow" alt="Stars"></a>
         <a href="https://github.com/MrMKN/PROFESSOR-BOT/fork"><img src="https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange" alt="Forks"></a>
