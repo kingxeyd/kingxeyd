@@ -33,7 +33,7 @@
 </head>
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+Je+suis+kingcey;un+proagrammeur+débutant;juste+la+Pour+vous+faire+part+de+mes;projets!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+Je+suis+kingcey;un+proagrammeur+débutant;juste+Pour+vous+faire+part+de+mes+!" alt="Typing SVG">
     </p>
     <h1 align="center"><b>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b></h1>
     <p align="center">
