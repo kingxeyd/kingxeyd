@@ -17,9 +17,8 @@
         <p>Je m'appelle <strong>[Ton Nom]</strong>, et je débute dans le monde de la programmation. Passionné par la technologie et l'apprentissage, je suis ici pour développer mes compétences et partager mes projets !</p>
         <h3>🌱 Compétences que j'apprends</h3>
         <ul>
-            <li>💻 HTML & CSS</li>
             <li>🐍 Python</li>
-            <li>📦 JavaScript</li>
+            <li>📦 PHP <spioler>Je suis encore en apprentissage </spioler></li>
             <li>📱 Développement d'applications Web</li>
         </ul>
         <h3>💡 Projets récents</h3>
