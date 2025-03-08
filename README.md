@@ -39,5 +39,34 @@
         <p>Suivez-moi dans mon aventure sur <strong>GitHub</strong> ! 💻</p>
             <img src="https://envs.sh/wga.jpg" alt="Image complémentaire" style="max-width: 100%; margin-top: 10px; border-radius: 10px;">
     </div>
+    <div class="container" style="margin-top: 20px; text-align: left; max-width: 600px;">
+        <h2>🌟 Bienvenue sur mon profil GitHub ! 🌟</h2>
+        <h3>👨‍💻 Je suis un programmeur débutant</h3>
+        <p>Je m'appelle <strong>[Ton Nom]</strong>, et je débute dans le monde de la programmation. Passionné par la technologie et l'apprentissage, je suis ici pour développer mes compétences et partager mes projets !</p>
+        <h3>🌱 Compétences que j'apprends</h3>
+        <ul>
+            <li>💻 HTML & CSS</li>
+            <li>🐍 Python</li>
+            <li>📦 JavaScript</li>
+            <li>📱 Développement d'applications Web</li>
+        </ul>
+        <h3>💡 Projets récents</h3>
+        <ul>
+            <li><a href="https://github.com/tonprofil/ton-site-web">Mon premier site web</a> - Un site web simple pour démontrer mes compétences en HTML et CSS.</li>
+            <li><a href="https://github.com/tonprofil/ton-projet-python">Un petit projet Python</a> - Un programme qui fait quelque chose d'intéressant en Python.</li>
+        </ul>
+        <h3>📫 Comment me contacter</h3>
+        <ul>
+            <li>✉️ Email : <a href="mailto:tonemail@example.com">tonemail@example.com</a></li>
+            <li>🐦 Twitter : <a href="https://twitter.com/tonpseudo">@tonpseudo</a></li>
+        </ul>
+        <h3>🚀 Mes objectifs</h3>
+        <ul>
+            <li>Améliorer mes compétences en programmation</li>
+            <li>Contribuer à des projets open source</li>
+            <li>Créer des applications utiles</li>
+        </ul>
+        <p>Merci de visiter mon profil ! Je suis toujours ouvert à des conseils et à des collaborations ! 😊</p>
+    </div>
 </body>
 </html>
