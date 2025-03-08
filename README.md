@@ -9,7 +9,7 @@
     <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!" alt="Typing SVG">
     </p>
-    <h1 align="center"><area>𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝘽𝙊𝙏 𝙨𝙤𝙪𝙨 𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</area></h1>
+    <h1 align="center"><table><tr><th>𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝘽𝙊𝙏 𝙨𝙤𝙪𝙨 𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</table><tr><th></h1>
     <p align="center">
         <a href="https://github.com/MrMKN/PROFESSOR-BOT/stargazers"><img src="https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow" alt="Stars"></a>
         <a href="https://github.com/MrMKN/PROFESSOR-BOT/fork"><img src="https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange" alt="Forks"></a>
