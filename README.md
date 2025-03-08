@@ -1,7 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil GitHub - Développeur Débutant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        img {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -17,8 +45,9 @@
         <p>Je m'appelle <strong>[Ton Nom]</strong>, et je débute dans le monde de la programmation. Passionné par la technologie et l'apprentissage, je suis ici pour développer mes compétences et partager mes projets !</p>
         <h3>🌱 Compétences que j'apprends</h3>
         <ul>
+            <li>💻 HTML & CSS</li>
             <li>🐍 Python</li>
-            <li>📦 PHP <spioler>Je suis encore en apprentissage </spioler></li>
+            <li>📦 JavaScript</li>
             <li>📱 Développement d'applications Web</li>
         </ul>
         <h3>💡 Projets récents</h3>
@@ -28,7 +57,7 @@
         </ul>
         <h3>📫 Comment me contacter</h3>
         <ul>
-            <li>✉️ Contact Tg : <a href="mailto:tonemail@example.com">t.me/Kingcey</a></li>
+            <li>✉️ <strong>Email :</strong> <a href="mailto:tonemail@example.com">tonemail@example.com</a> <img src="https://envs.sh/wga.jpg" alt="Icon" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"></li>
             <li>🐦 Twitter : <a href="https://twitter.com/tonpseudo">@tonpseudo</a></li>
         </ul>
         <h3>🚀 Mes objectifs</h3>
