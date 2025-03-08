@@ -11,7 +11,7 @@
     </p>
          <h1 align="center"<table><tr><th>𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝘽𝙊𝙏 𝙨𝙤𝙪𝙨 𝙋𝙔𝙍𝙊𝙂𝙍𝘼𝙈</table><tr><th></h1>
     <p align="center">
-        <a href="https://t.me/Kingcey"><img src="https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=purple" alt="Stars"></a>
+        <a href="https://t.me/Kingcey"><img src="https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=purple" alt="𝔹𝕠𝕥🇿𝗙𝗹𝗶𝘅 [ᥴ𝘳ꪖɀꪗ] 🤪"></a>
         <a href="https://github.com/MrMKN/PROFESSOR-BOT/fork"><img src="https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange" alt="Forks"></a>
         <a href="https://github.com/MrMKN/PROFESSOR-BOT"><img src="https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green" alt="Size"></a>
         <a href="https://github.com/MrMKN/PROFESSOR-BOT"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source"></a>
